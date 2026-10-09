@@ -23,7 +23,7 @@ docker run -p 3000:3000 moja-aplikacja
 ```
 
 ## Autorzy projektu:
-**Maja Górska, Robert Lewandowski**
+**Maja Górska**
 
 ## Wersja programu:
 **0.0.1**
