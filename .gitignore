@@ -1,0 +1,20 @@
+# Środowisko wirtualne 
+.venv/
+
+# Pliki tymczasowe pythona
+__pycache__
+# Pliki narzędzi testujących
+
+# Lokalne bazy danych
+
+# Logi aplikacji
+
+# Pliki systemowe
+# system windows
+Thumds.db
+
+# system macos
+.DS_Store
+
+# inne pliki i foldery
+zadania.txt
