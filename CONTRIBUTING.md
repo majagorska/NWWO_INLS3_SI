@@ -47,7 +47,7 @@ git commit -m"docs: zaktualizuj readme.md"
 ```
   
 ## Zgłoszenia (Issues)
-...
+Przejdź do zakładki issues oraz wybierając pasującą templatkę, wyślij swoje zgłoszenie
 
 ## Pull Requests
 ...
