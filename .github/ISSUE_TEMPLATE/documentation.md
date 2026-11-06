@@ -7,17 +7,17 @@ assignees: ""
 ---
 
 ## Typ dokumenttacji
-- [] Nowa dokumentacja
-- [] Aktualizacja dokumentacji
-- [] Poprawka dokumentacji
+- [ ] Nowa dokumentacja
+- [ ] Aktualizacja dokumentacji
+- [ ] Poprawka dokumentacji
 
 ## Lokalizacja
 Wskaż plik którego dotyczy zgłoszenie
-- [] README
-- [] CONTRIBUTING
-- [] API
-- [] Inne pliki
-- 
+- [ ] README
+- [ ] CONTRIBUTING
+- [ ] API
+- [ ] Inne pliki
+
 Opiusz jakie pliki:
 
 ## Dodatkowe informacje
