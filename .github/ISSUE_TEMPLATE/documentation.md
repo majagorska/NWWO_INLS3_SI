@@ -1,19 +1,24 @@
 ---
-name: Zgłoszenie błędu dokumentacji
-about: Zgłoś błąd w dokumentacji
+name: Zmiana w dokumentacji
+about: Utwórz lub aktualizuj dokumentację
 title: "[DOCS] krótki opis do uzupełnienia"
 labels: docs
 assignees: ""
 ---
 
-## Krótki opis
-Krótki i jasny opis błędu do naprawienia
+## Typ dokumenttacji
+- [] Nowa dokumentacja
+- [] Aktualizacja dokumentacji
+- [] Poprawka dokumentacji
 
-## Kroki do odtworzenia problemu
-1. Przejdź do..
-2. Kliknij w..
-3. Wprowadź..
-4. Zaobserwujesz błąd..
+## Lokalizacja
+Wskaż plik którego dotyczy zgłoszenie
+- [] README
+- [] CONTRIBUTING
+- [] API
+- [] Inne pliki
+- 
+Opiusz jakie pliki:
 
-## Oczekiwane zachowanie
-Napisze co powinno się wydarzyć po dokonaniu korekty
+## Dodatkowe informacje
+Wszystkie dodatkowe uwagi
